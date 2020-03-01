@@ -100,7 +100,9 @@ Response: 412
 
 
 
-
+![Bulbasaur](imagenes/pokemons/001.png?raw=true=100x100 "Bulbasaur")
+![Chamander](imagenes/pokemons/004.png?raw=true=100x100 "Chamander")
+![Squirtle](imagenes/pokemons/007.png?raw=true=100x100 "Squirtle")
 
 Éxitos totales.
 
