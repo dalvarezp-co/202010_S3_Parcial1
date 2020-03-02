@@ -19,7 +19,7 @@ Esta aplicación tiene el propósito de crear un **PokeDesk** para gestionar la 
 
 (10%) Realice la implementación de la persistencia de los Pokemons. El archivo de persistencia debe tener por lo menos la creación, obtener todos los pokemons y obtener un pokemón por nombre.
 
-(10%) Cree 2 pruebas unitarias en la clase correspondiente, para los métodos **crear** y **obtener todos** los pokemóns, los cuáles validan si está correcta la implementación de la persistencia de la entidad.
+(10%) Cree 1 prueba unitarias en la clase correspondiente, para el método **crear** un pokemon, los cuáles validan si está correcta la implementación de la persistencia de la entidad.
 
 Ejecute la prueba y valide que pasa correctamente.
 
